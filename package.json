@@ -1,0 +1,12 @@
+{
+  "name": "emi-style",
+  "version": "1.0.0",
+  "description": "Assistant EmiStyle avec Gemini",
+  "main": "chat.js",
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.14.0"
+  }
+}
